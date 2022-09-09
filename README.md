@@ -36,5 +36,6 @@
 <div style="display: inline_blocke"><br/>
 
   <img align="center" alt="POSTGRESQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  
+  <img align="center" alt="MYSQK" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+
 </div>
