@@ -1,4 +1,4 @@
-### Olá! Eu sou o Júlio Hortêncio 👨‍💻
+### Olá! Eu sou o Júlio Hortêncio 🧑🏾
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julio-hort%C3%AAncio-maia-nepomuceno-1263b3124/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/julio_hortencio)
