@@ -56,8 +56,12 @@
 <div style="display: inline_blocke"><br/>
 
   <img align="center" alt="ZABBIX" heigth="29" width="121" src="https://user-images.githubusercontent.com/8634614/192047423-7cd8f717-d685-4509-a78c-8110ad208022.png"/>
+  <img align="center" alt="DATACOM" heigth="29" width="121" src="https://user-images.githubusercontent.com/8634614/192050634-9786100f-e5f2-4454-84b7-f87896af75e6.png"/>
+  <img align="center" alt="DATACOM" heigth="29" width="121" src="https://user-images.githubusercontent.com/8634614/192050724-f90f61c2-56db-4d10-90ee-659996bc3599.png"/>
+  <img align="center" alt="GRAFANA" heigth="29" width="121" src="https://www.freelogovectors.net/svg02/grafana_logo.svg"/>
 
 </div>
+
 
 ## Outras Skills
 
