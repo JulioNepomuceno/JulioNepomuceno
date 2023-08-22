@@ -31,5 +31,9 @@
   <img align="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img align="center" alt="NETLIFY" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
   <img align="center" alt="HEROKU" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
+  <img align="center" alt="VERCEL" src="https://img.shields.io/badge/upcloud-7B00FF?style=for-the-badge&logo=upcloud&logoColor=white"/>
+  <img align="center" alt="WORPRESS" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
+  <img align="center" alt="JOOMLA" src="https://img.shields.io/badge/Joomla-5091CD?style=for-the-badge&logo=joomla&logoColor=white"/>
+
 
 </div>
