@@ -19,6 +19,7 @@
   
 </div>
 
+
 ## Outras Tecnoligia na programação
 
 <div style="display: inline_blocke"><br/>
